@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,18 +180,17 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "workspaces:작업 공간 레이아웃 관리": false,
-      "obsidian-day-planner:Timeline": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false,
       "obsidian-custom-frames:Open Bible": false,
       "obsidian-custom-frames:Open YouTube": false,
       "obsidian-custom-frames:Open C 컴파일러": false,
       "obsidian-custom-frames:Open Chat gpt": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "templater-obsidian:Templater": false,
-      "vscode-editor:Create Code File": false,
-      "periodic-notes:Open today": false
+      "vscode-editor:Create Code File": false
     }
   },
   "active": "49e8dae268711b0a",
