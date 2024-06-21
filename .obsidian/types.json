@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "날짜": "date",
+    "할일": "multitext",
+    "업데이트 날짜": "date",
+    "진행 사역": "multitext",
+    "성경 읽기": "multitext",
+    "안녕": "checkbox",
+    "안녕ㅁㄴㅇㄻㄴㅇㄹ": "checkbox"
+  }
+}

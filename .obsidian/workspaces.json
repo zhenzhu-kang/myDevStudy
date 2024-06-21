@@ -1,0 +1,191 @@
+{
+  "workspaces": {
+    "말씀묵상 Layout": {
+      "main": {
+        "id": "3135d31cd3897770",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a8bb03ae985bbe7",
+            "type": "tabs",
+            "dimension": 47.53363228699551,
+            "children": [
+              {
+                "id": "6a16f57909b17ab7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "말씀묵상/2024-05-09.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "199db3bb2cb40d40",
+            "type": "tabs",
+            "dimension": 52.46636771300448,
+            "children": [
+              {
+                "id": "03d071bbb9040c35",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-bible",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0abc7d059b50fd9b",
+        "type": "split",
+        "children": [
+          {
+            "id": "6ccf81ed9edd99c4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "69d5e9e19251545b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "060f1fc4bf49c256",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1e5019d32fd33e84",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "a8e162cddfbaff54",
+        "type": "split",
+        "children": [
+          {
+            "id": "aca3d6a9ccbe9983",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3a4c9adcb36994a6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b0ce7d21adec318a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "말씀묵상/2024-05-09.md"
+                  }
+                }
+              },
+              {
+                "id": "2ef3c8fcc87a35b4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "말씀묵상/2024-05-09.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1279b83548d00950",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "말씀묵상/2024-05-09.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "a15fb0aa8eee4a7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "071e1da456e39851",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open Bible": false,
+          "switcher:퀵 스위처 열기": false,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 데일리 노트 열기": false,
+          "templates:템플릿 삽입": false,
+          "command-palette:명령어 팔레트 열기": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "omnisearch:Omnisearch": false,
+          "workspaces:작업 공간 레이아웃 관리": false
+        }
+      },
+      "active": "6a16f57909b17ab7",
+      "mtime": "2024-05-09T09:06:23+09:00"
+    }
+  },
+  "active": "말씀묵상 Layout"
+}

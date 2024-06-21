@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "e0699836a4088c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a29eb1bd3135e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49e8dae268711b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리눅스/리눅스 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bf7c7bb72521d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f5819abad41b932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9789b96989b82a06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7faf0a3374501894",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff19868d6e65cfbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "404cf22cfe61f9bb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebe825783f1ebb7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "1bd05db71803d1b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa265aa30d84fc74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826242f801cef4ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da30f2f4b57d83c9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "73e34183ee022997",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "리눅스/리눅스 명령어.md"
+              }
+            }
+          },
+          {
+            "id": "d143a507fe42f1f0",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "670d517c041659de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "리눅스/리눅스 명령어.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64ad074df9ed9fd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "리눅스/리눅스 명령어.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "obsidian-day-planner:Timeline": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-custom-frames:Open Bible": false,
+      "obsidian-custom-frames:Open YouTube": false,
+      "obsidian-custom-frames:Open C 컴파일러": false,
+      "obsidian-custom-frames:Open Chat gpt": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false,
+      "vscode-editor:Create Code File": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "49e8dae268711b0a",
+  "lastOpenFiles": [
+    "리눅스/무제 파일.md",
+    "리눅스/리눅스 명령어.md",
+    "Git, Github/git 명령어.md",
+    "Git, Github/github 사용법.md",
+    "CS/네트워크 라우터 공부.md",
+    "go_workspace/pass_fail.go",
+    "go_workspace/if_Practice.go",
+    "go_workspace/Go 연습.md",
+    "go_workspace",
+    "Rust_workspace",
+    "Rust",
+    "새 폴더",
+    "전공수업 - 바로 가기.lnk",
+    "CS/Packet Tracer 공부.md",
+    "CS/운영체제 마인드맵.md",
+    "CS/무제 파일.canvas",
+    "CS/운영체제/운영체제 마인드맵.md",
+    "CS/운영체제/운영체제_물리메모리.pdf",
+    "CS/운영체제/ch07_물리 메모리 관리.pdf",
+    "CS/운영체제/ch10_입출력 시스템과 저장장치.pdf",
+    "README.md",
+    "무제 파일.md",
+    "Untitled mindmap.md",
+    "CS/운영체제 마인드맵.canvas",
+    "CS/이산수학 mindmap.md",
+    "CS/이진트리 탐색.md",
+    "C/C 이론 공부.md",
+    "CS/이산수학/이진트리 탐색.md",
+    "C/C문법 모음.md",
+    "CS/이산수학/이산수학 mindmap.md",
+    "CS/알고리즘/이진트리 탐색.md",
+    "알고리즘/이산수학/리눅스.md",
+    "리눅스/리눅스 스터디.md",
+    "C/No.1546.md",
+    "C/C.md",
+    "C/컴프기 실습/14주차 실습.md",
+    "C/14주차 실습.md",
+    "C/13주차 실습.md",
+    "무제 파일.canvas",
+    "Dev study/\bGit, Github/Pasted image 20240611132443.png",
+    "Dev study/\bGit, Github/Pasted image 20240611131833.png",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/TimeCracker 사이트맵.canvas",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/TimeCracker 웹 스토리보드.canvas",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/역사파트_최종/History_img/2010_3.jpg",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/역사파트_최종/History_img/2010_2.jpg",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/역사파트_최종/History_img/2010_1.jpg",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/역사파트_최종/History_img/2000_3.jpg",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/역사파트_최종/History_img/2000_2.jpg",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/역사파트_최종/History_img/2000_1.jpg",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/역사파트_최종/History_img/1990_3.png",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/역사파트_최종/History_img/1990_2.jpg",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/운영체제/운영체제 마인드맵.canvas",
+    "UnderWing Project/UnderWing project 마인드맵.canvas",
+    "컴퓨터소프트웨어과 강의/3학년 1학기/웹프로그래밍/웹프 프로젝트 과제/TimeCracker 웹 레이아웃.canvas",
+    "무제 파일 1.canvas"
+  ]
+}

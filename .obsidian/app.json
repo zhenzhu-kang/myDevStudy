@@ -1,0 +1,10 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "showLineNumber": true,
+  "livePreview": true
+}

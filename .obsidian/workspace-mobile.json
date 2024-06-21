@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "134f81e1fa9de4a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "34bc19dcd53776ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a721ea943c96924",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
+            }
+          },
+          {
+            "id": "48816bde962e9665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "설교정리/2024_새벽예배/24.05.20.목_새벽.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e414dd9bfbd0cf60",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12597c34620f5a7e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "967594134ac26d41",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:가지끝",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fef743c16ccc2ea3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "alphabetical",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "eebd0ac4c8115e9d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "5755ed9a4ab44393",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "12772440a43360d2",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "right": {
+    "id": "97e9cbbea96d0ea8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ffc554e494cb34d9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "설교정리/2024_새벽예배/24.05.20.목_새벽.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "21814312907d42de",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "설교정리/2024_새벽예배/24.05.20.목_새벽.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "900eb032d60849b8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "설교정리/2024_새벽예배/24.05.20.목_새벽.md"
+          }
+        }
+      },
+      {
+        "id": "f42b05f701ef33b3",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "970c4869be7411a7",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "omnisearch:Omnisearch": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-day-planner:Timeline": false,
+      "audio-recorder:녹음 시작/중지": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "48816bde962e9665",
+  "lastOpenFiles": [
+    "데일리 노트/2024.05.18.토.md",
+    "설교정리/2024_새벽예배/24.05.20.목_새벽.md",
+    "설교정리/2024_새벽예배/24.05.18.토_새벽.md",
+    "데일리 노트/2024.05.14.화.md",
+    "데일리 노트/2024.05.15.수.md",
+    "데일리 노트/2024.05.16.목.md",
+    "설교정리/2024_새벽예배/24.05.16.목_새벽.md",
+    "설교정리/2024_새벽예배/24.05.15.수_새벽.md",
+    "MCM.md",
+    "사역/MCMwJ&P 사역.md",
+    "데일리 노트/2024-05-14.md",
+    "2024.05.06.월_인카운터 은혜.md",
+    "설교정리/2024_새벽예배/24.05.14.화_새벽.md",
+    "설교정리/2024_새벽예배/5월.md",
+    "데일리 노트/2024.05.13.월.md",
+    "데일리 노트/웹프 프로젝트 아이디어 메모.md",
+    "데일리 노트/2024-05-13.md",
+    "데일리 노트/2024.05.23.목.md",
+    "템플릿/데일리 노트 템플릿.md",
+    "교안 모음/꿈꾸다/하나님의 축복을 사모하자!.md",
+    "교안 모음/꿈꾸다/남자와 여자를 너무 다르게 지으신 이유.md",
+    "템플릿",
+    "데일리 노트/2024-05-15.md",
+    "데일리 노트",
+    "교안 모음/꿈꾸다/하나님은 열등감을 사용하심.md",
+    "설교정리/2024_새벽예배/24.05.13.월_새벽.md",
+    "교안 모음/꿈꾸다/20240512_204059707.jpg",
+    "교안 모음/꿈꾸다/20240512_204054649.jpg",
+    "교안 모음/꿈꾸다/20240512_204117908 1.jpg",
+    "교안 모음/꿈꾸다/20240512_204113386 1.jpg",
+    "교안 모음/꿈꾸다/20240512_204117908.jpg",
+    "교안 모음/꿈꾸다/20240512_204113386.jpg",
+    "교안 모음/꿈꾸다/20240512_204038635.jpg",
+    "사역/24.05.12_2차_브레드리더 모임.md",
+    "사역/Recording 20240512195229.webm",
+    "사역/Recording 20240512202426.webm",
+    "교안 모음/주일오후",
+    "교안 모음/주일 오전",
+    "교안 모음/꿈꾸다",
+    "사역/20240512_204009342.jpg",
+    "사역/20240512_204003139.jpg",
+    "사역",
+    "말씀묵상/2024-05-09.md",
+    "교안 모음/금요예배/20240511_175041716.jpg",
+    "교안 모음/금요예배",
+    "교안 모음"
+  ]
+}
