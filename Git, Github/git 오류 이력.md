@@ -25,5 +25,9 @@ git pull origin main From https://github.com/zhenzhu-kang/myDevStudy * branch ma
 - hint: hint: You can replace "git config" with "git config --global" to set a default 
 - hint: preference for all repositories. You can also pass --rebase, --no-rebase, hint: or --ff-only on the command line to override the configured default per
 - hint: invocation. fatal: Need to specify how to reconcile divergent branches.
+
+//chat gpt의 추천으로 아래 명령어를 쳤더니 push가 성공했다.
+기존 윈도우에 있던 리포지토리를 깃허브에 푸시하고 우분투에서 깃클론을 한뒤에 첫 push였는데 문제가 생겼었다..
+`git config --global pull.rebase false`
 ```
 `
