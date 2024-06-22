@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스/리눅스 명령어.md",
+                "file": "Git, Github/git 오류 이력.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스/리눅스 명령어.md"
+                "file": "Git, Github/git 오류 이력.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스/리눅스 명령어.md",
+                "file": "Git, Github/git 오류 이력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스/리눅스 명령어.md",
+                "file": "Git, Github/git 오류 이력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -179,7 +181,6 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "workspaces:작업 공간 레이아웃 관리": false,
-      "obsidian-day-planner:Timeline": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "omnisearch:Omnisearch": false,
@@ -195,10 +196,11 @@
   },
   "active": "49e8dae268711b0a",
   "lastOpenFiles": [
-    "리눅스/무제 파일.md",
-    "리눅스/리눅스 명령어.md",
-    "Git, Github/git 명령어.md",
     "Git, Github/github 사용법.md",
+    "Git, Github/git 오류 이력.md",
+    "Git, Github/git 명령어.md",
+    "리눅스/리눅스 명령어.md",
+    "리눅스/무제 파일.md",
     "CS/네트워크 라우터 공부.md",
     "go_workspace/pass_fail.go",
     "go_workspace/if_Practice.go",
@@ -232,7 +234,6 @@
     "C/C.md",
     "C/컴프기 실습/14주차 실습.md",
     "C/14주차 실습.md",
-    "C/13주차 실습.md",
     "무제 파일.canvas",
     "Dev study/\bGit, Github/Pasted image 20240611132443.png",
     "Dev study/\bGit, Github/Pasted image 20240611131833.png",
