@@ -1,5 +1,6 @@
 ## 24.06.22
 
+OS: 우분투
 
 ```git title:24.06.22.error_분석
 //git push 중 생긴 오류
@@ -12,7 +13,9 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again. 
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
-zhenzhu_kang@DESKTOP-109HCKC:~/myDevStudy$ git pull origin main From https://github.com/zhenzhu-kang/myDevStudy * branch main -> FETCH_HEAD 
+// 그래서 이번엔 pull을 해봤는데 아래 같은 오류가 떴다...
+git pull origin main From https://github.com/zhenzhu-kang/myDevStudy * branch main -> FETCH_HEAD 
+
 - hint: You have divergent branches and need to specify how to reconcile them. 
 - hint: You can do so by running one of the following commands sometime before 
 - hint: your next pull: 
