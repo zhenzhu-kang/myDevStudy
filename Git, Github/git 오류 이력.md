@@ -1,5 +1,3 @@
-## 24.06.22
-
 OS: 우분투
 
 ```git title:24.06.22.error_분석
@@ -45,6 +43,8 @@ git pull origin main From https://github.com/zhenzhu-kang/myDevStudy * branch ma
     
 
 이 설정을 적용하면 개별 Git 저장소에서 별도로 `git pull` 명령을 실행할 때 `--no-rebase` 옵션을 지정하지 않아도 리베이스를 사용하지 않고 병합을 수행하게 됩니다. (chat gpt)*/
+
+pull.rebase false 는 곧 pull 기본설정을 rebase로 하지 않고(false) 병합으로 하겠다는 뜻..?
 
 ```
 `
