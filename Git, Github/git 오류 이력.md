@@ -27,7 +27,12 @@ git pull origin main From https://github.com/zhenzhu-kang/myDevStudy * branch ma
 - hint: invocation. fatal: Need to specify how to reconcile divergent branches.
 
 //chat gpt의 추천으로 아래 명령어를 쳤더니 push가 성공했다.
-기존 윈도우에 있던 리포지토리를 깃허브에 푸시하고 우분투에서 깃클론을 한뒤에 첫 push였는데 문제가 생겼었다..
 `git config --global pull.rebase false`
+
+기존 윈도우에 있던 리포지토리를 깃허브에 푸시하고 우분투에서 깃클론을 한뒤에 첫 push였는데 문제가 생겼었다..
+
+/*이 오류는 로컬 브랜치와 원격 브랜치가 서로 다르게 진행된 경우에 발생하며, Git이 어떻게 이 두 브랜치를 병합해야 할지 명확하지 않기 때문에 발생합니다. 이 문제를 해결하려면 병합 전략을 지정해 주어야 합니다. 다음 단계들을 따라 문제를 해결할 수 있습니다. (chat gpt)*/
+
+아마 윈도우에서 옵시디언으로 자동 커밋 푸시를 하고 있었는데 그거랑 우분투에서 푸시하는게 겹쳐서 그런걸까..?
 ```
 `
