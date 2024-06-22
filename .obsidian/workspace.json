@@ -11,8 +11,12 @@
             "id": "0ba3b65a67da18c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "리눅스/리눅스 명령어.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rust_workspace/kang/src/main.rs"
+                "file": "리눅스/리눅스 명령어.md"
               }
             }
           },
@@ -136,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rust_workspace/kang/src/main.rs",
+                "file": "리눅스/리눅스 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rust_workspace/kang/src/main.rs",
+                "file": "리눅스/리눅스 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,8 +194,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9789b96989b82a06",
+  "active": "0ba3b65a67da18c1",
   "lastOpenFiles": [
+    "Git, Github/git 명령어.md",
     "Git, Github/git 오류 이력.md",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/work-products.bin",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/query-cache.bin",
@@ -204,7 +209,6 @@
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/1j4hgfmmg63xq3b0.o",
     "rust_workspace/kang/target/debug/incremental/kang-4agh819le2tc/s-gxcpdpahyg-2j5wee-70ovrwks5qa0dijormqmbjmqt/work-products.bin",
     "Git, Github/github 사용법.md",
-    "Git, Github/git 명령어.md",
     "리눅스/리눅스 명령어.md",
     "리눅스/무제 파일.md",
     "CS/네트워크 라우터 공부.md",
