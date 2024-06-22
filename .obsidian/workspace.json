@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a9a29eb1bd3135e4",
+        "id": "1076629b3d6a611c",
         "type": "tabs",
         "children": [
           {
-            "id": "49e8dae268711b0a",
+            "id": "0ba3b65a67da18c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git, Github/git 오류 이력.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git, Github/git 오류 이력.md"
+                "file": "rust_workspace/kang/src/main.rs"
               }
             }
           },
@@ -140,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git, Github/git 오류 이력.md",
+                "file": "rust_workspace/kang/src/main.rs",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git, Github/git 오류 이력.md",
+                "file": "rust_workspace/kang/src/main.rs",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +190,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "49e8dae268711b0a",
+  "active": "9789b96989b82a06",
   "lastOpenFiles": [
+    "Git, Github/git 오류 이력.md",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/work-products.bin",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/query-cache.bin",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/nhp1lnpoysq5ihl.o",
@@ -203,12 +200,10 @@
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/56aqu97crsmeydm7.o",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/3kyzixe3t5s7686q.o",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/3igl71eks2s136dw.o",
-    "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/1j4hgfmmg63xq3b0.o",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/107ip4137sp3i9wt.o",
+    "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/1j4hgfmmg63xq3b0.o",
     "rust_workspace/kang/target/debug/incremental/kang-4agh819le2tc/s-gxcpdpahyg-2j5wee-70ovrwks5qa0dijormqmbjmqt/work-products.bin",
-    "rust_workspace/kang/target/debug/incremental/kang-4agh819le2tc/s-gxcpdpahyg-2j5wee-70ovrwks5qa0dijormqmbjmqt/query-cache.bin",
     "Git, Github/github 사용법.md",
-    "Git, Github/git 오류 이력.md",
     "Git, Github/git 명령어.md",
     "리눅스/리눅스 명령어.md",
     "리눅스/무제 파일.md",
