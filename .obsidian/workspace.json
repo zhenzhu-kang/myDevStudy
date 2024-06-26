@@ -194,8 +194,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0ba3b65a67da18c1",
+  "active": "ebe825783f1ebb7c",
   "lastOpenFiles": [
+    "nodejs_study/nodejs_study.code-workspace",
+    "nodejs_study",
     "리눅스/리눅스 명령어.md",
     "도커/Dev container 설정.md",
     "도커",
@@ -209,7 +211,6 @@
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/3kyzixe3t5s7686q.o",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/3igl71eks2s136dw.o",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/107ip4137sp3i9wt.o",
-    "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/1j4hgfmmg63xq3b0.o",
     "Git, Github/github 사용법.md",
     "리눅스/무제 파일.md",
     "CS/네트워크 라우터 공부.md",
@@ -233,7 +234,6 @@
     "리눅스/리눅스 스터디.md",
     "C/No.1546.md",
     "C/C.md",
-    "C/컴프기 실습/14주차 실습.md",
     "무제 파일.canvas",
     "Dev study/\bGit, Github/Pasted image 20240611132443.png",
     "Dev study/\bGit, Github/Pasted image 20240611131833.png",
