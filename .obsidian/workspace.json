@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도커/Dev container 설정.md",
-                "mode": "preview",
+                "file": "Git, Github/git 오류 이력.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도커/Dev container 설정.md"
+                "file": "Git, Github/git 오류 이력.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도커/Dev container 설정.md",
+                "file": "Git, Github/git 오류 이력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도커/Dev container 설정.md",
+                "file": "Git, Github/git 오류 이력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,15 +194,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ebe825783f1ebb7c",
+  "active": "0ba3b65a67da18c1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Git, Github/git 오류 이력.md",
+    "Git, Github/github 사용법.md",
+    "Git, Github/git 명령어.md",
+    "도커/Dev container 설정.md",
     "nodejs_study/nodejs_study.code-workspace",
     "nodejs_study",
     "리눅스/리눅스 명령어.md",
-    "도커/Dev container 설정.md",
     "도커",
-    "Git, Github/git 명령어.md",
-    "Git, Github/git 오류 이력.md",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/work-products.bin",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/query-cache.bin",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/nhp1lnpoysq5ihl.o",
@@ -210,8 +212,6 @@
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/56aqu97crsmeydm7.o",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/3kyzixe3t5s7686q.o",
     "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/3igl71eks2s136dw.o",
-    "rust_workspace/kang/target/debug/incremental/kang-zjq1629nj6ic/s-gxcpdpcaqp-1rj1pn9-4aa6cwo6ykcautraki74zkjkd/107ip4137sp3i9wt.o",
-    "Git, Github/github 사용법.md",
     "리눅스/무제 파일.md",
     "CS/네트워크 라우터 공부.md",
     "go_workspace/Go 연습.md",
